@@ -1,0 +1,9 @@
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline\bin\Debug\netstandard2.0\LeilaoOnline.deps.json
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline\bin\Debug\netstandard2.0\LeilaoOnline.dll
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline\bin\Debug\netstandard2.0\LeilaoOnline.pdb
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline\obj\Debug\netstandard2.0\LeilaoOnline.csprojAssemblyReference.cache
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline\obj\Debug\netstandard2.0\LeilaoOnline.AssemblyInfoInputs.cache
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline\obj\Debug\netstandard2.0\LeilaoOnline.AssemblyInfo.cs
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline\obj\Debug\netstandard2.0\LeilaoOnline.csproj.CoreCompileInputs.cache
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline\obj\Debug\netstandard2.0\LeilaoOnline.dll
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline\obj\Debug\netstandard2.0\LeilaoOnline.pdb

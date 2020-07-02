@@ -1,0 +1,16 @@
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.exe
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.deps.json
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.runtimeconfig.json
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.dll
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.pdb
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\LeilaoOnline.dll
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\LeilaoOnline.pdb
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.csproj.CopyComplete
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.dll
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.pdb
+C:\Users\FelipeTadeu\Desktop\LeilaoOnline\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\LeilaoOnline.ConsoleApp.genruntimeconfig.cache
